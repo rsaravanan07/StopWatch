@@ -1,0 +1,8 @@
+{
+  "name": "StopWatch",
+  "app_id": "321b432a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
